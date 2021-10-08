@@ -1,6 +1,6 @@
 Hi :bowtie:
  
-PHP :sunglasses:	Laravel, Zend, laminas :sunglasses:
+PHP :sunglasses:	LARAVEL, ZEND, LAMINAS, REACT :sunglasses:
 HTML, CSS and Js :sunglasses:
 
 vue.js? Node.js? jQuery? T.T 
