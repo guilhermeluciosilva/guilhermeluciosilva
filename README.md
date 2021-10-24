@@ -20,4 +20,14 @@ vue.js? Node.js? jQuery? T.T
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3721dc2d35d14f2165b9f291bc39d6ff~c5_720x720.jpeg?x-expires=1635177600&x-signature=jmzaXaM0N%2B4TGyApfaK6oZOR3ss%3D">
 </div>
 
+ ##
 
+<div> 
+ 
+ <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/guilherme.coruja/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/guilherme-silva-64a543185/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 
+
+ 
+ </div>
