@@ -17,7 +17,7 @@ vue.js? Node.js? jQuery? T.T
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/3721dc2d35d14f2165b9f291bc39d6ff~c5_720x720.jpeg?x-expires=1635177600&x-signature=jmzaXaM0N%2B4TGyApfaK6oZOR3ss%3D">
 </div>
 
 
